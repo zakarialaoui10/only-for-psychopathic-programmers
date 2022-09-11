@@ -92,8 +92,6 @@ int main() {
 
 ### loop
 
-'''js
-for(i=0;i<10;i++){
-console.log(i)
-}
-'''
+```javascript 
+for(i=0;i<10;i++)console.log(i)
+```

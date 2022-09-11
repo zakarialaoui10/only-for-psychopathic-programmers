@@ -92,9 +92,13 @@ int main() {
 
 ### loop
 
+level 0 
+
 ```javascript 
 for(i=0;i<10;i++)console.log(i)
 ```
+level 1
+
 ```javascript 
 i=0;
 while(i<10){
@@ -102,6 +106,8 @@ console.log(i)
 i++;
 }
 ```
+level 2
+
 ```javascript 
 i=0;
 for(;;){

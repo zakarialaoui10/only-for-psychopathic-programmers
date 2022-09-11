@@ -62,7 +62,7 @@ int main() {
 <th>element</th>
 </tr>
 <tr>
-<td rowspan=6>[1,2,3,4]</td>
+<td rowspan=6>1<br>2<br>3<br>4<br></td>
 <td>Javascript</td>
 <td rowspan=6>1</td>
 <td>2</td>

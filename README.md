@@ -57,9 +57,8 @@ int main() {
 ### indexing
 
 <table>
-<th>
+<tr>
 <td>Language</td>
 <td>syntaxe</td>
-
-</th>
+</tr>
 </table>

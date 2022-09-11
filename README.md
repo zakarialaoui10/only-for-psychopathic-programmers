@@ -65,9 +65,9 @@ int main() {
 <th>output</th>
 </tr>
 <tr>
-<td rowspan=2>[1,2,3,4]</td>
+<td rowspan=4>[1,2,3,4]</td>
 <td>Javascript</td>
-<td rowspan=2>1</td>
+<td rowspan=4>1</td>
 <td>syntax</td>
 <td>2</td>
 </tr>

@@ -58,7 +58,8 @@ int main() {
 
 <table>
 <tr>
-<td>Language</td>
-<td>syntaxe</td>
+<th rowspan=2>data</th>
+<th>Language</th>
+<th>syntaxe</th>
 </tr>
 </table>

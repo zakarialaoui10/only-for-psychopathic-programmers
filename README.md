@@ -2,6 +2,7 @@
 
 - [1-Hello World in Matlab](#hello_world_in_matlab)
 - [2-Oop in no Oop Languages](#Oop_in_no_Oop_Languages)
+- 
       
                          
 ### hello_world_in_matlab    
@@ -18,3 +19,11 @@ disp("Hello world")
 Oop it's just a paradigm ... </br>
 
 Object = Struct + Methodes 
+
+#### Oop_in_Go_Lang
+
+```go       
+disp("Hello world")  
+``` 
+
+#### Oop_in_C_Lang

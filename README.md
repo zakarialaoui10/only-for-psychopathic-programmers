@@ -15,4 +15,6 @@ disp("Hello world")
 
 ### Oop_in_no_Oop_Languages
 
-Oop it's just a paradigm ...
+Oop it's just a paradigm ... </br>
+
+Object = Struct + Methodes 

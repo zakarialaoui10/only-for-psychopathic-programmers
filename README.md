@@ -1,6 +1,6 @@
 # programming-for-psychopaths
 
-- [1-Hello World in Matlab](#hello_world)
+- [1-Hello World in Matlab](#hello_world_in_matlab)
       
                          
-### hello_world    
+### hello_world_in_matlab    

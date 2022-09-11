@@ -66,14 +66,19 @@ int main() {
 </tr>
 <tr>
 <td rowspan=2>[1,2,3,4]</td>
-<td>javascript</td>
+<td>Javascript</td>
 <td rowspan=2>1</td>
-<td>Python</td>
+<td>syntax</td>
 <td>2</td>
 </tr>
 <tr>
-<td>python</td>
 <td>Python</td>
+<td>syntax</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Java</td>
+<td>syntax</td>
 <td>2</td>
 </tr>
 </table>

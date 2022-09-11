@@ -65,10 +65,15 @@ int main() {
 <th>output</th>
 </tr>
 <tr>
-<td rowspan=2>data</td>
-<td>Python</td>
+<td rowspan=2>[1,2,3,4]</td>
+<td>javascript</td>
 <td rowspan=2>1</td>
 <td>Python</td>
-<th>output</th>
+<td>2</td>
+</tr>
+<tr>
+<td>python</td>
+<td>Python</td>
+<td>2</td>
 </tr>
 </table>

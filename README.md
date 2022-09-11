@@ -88,3 +88,12 @@ int main() {
 <td>1</td>
 </tr>
 </table>
+
+
+### loop
+
+'''js
+for(i=0;i<10;i++){
+console.log(i)
+}
+'''

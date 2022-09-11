@@ -27,7 +27,6 @@ struct point{
   int x;
   int y;
 };
-
 struct circle{
   float radius;
   struct point center;

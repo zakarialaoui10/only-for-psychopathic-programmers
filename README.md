@@ -60,6 +60,15 @@ int main() {
 <tr>
 <th rowspan=2>data</th>
 <th>Language</th>
-<th>syntaxe</th>
+<th>index</th>
+<th>syntax</th>
+<th>output</th>
+</tr>
+<tr>
+<td rowspan=2>data</td>
+<td>Python</td>
+<td rowspan=2>1</td>
+<td>Python</td>
+<th>output</th>
 </tr>
 </table>

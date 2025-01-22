@@ -1,5 +1,5 @@
 <!-- change  repo 
-ssr in c 
+ssr in c / asm
 -->
 
 # programming-for-psychopaths                    

@@ -1,4 +1,6 @@
-<!-- change  repo -->
+<!-- change  repo 
+ssr in c 
+-->
 
 # programming-for-psychopaths                    
 

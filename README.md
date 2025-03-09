@@ -1,6 +1,7 @@
 <!-- 
 change  repo 
 ssr in c / asm  
+go
 -->
 
 # programming-for-psychopaths                    

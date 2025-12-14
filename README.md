@@ -4,7 +4,7 @@ ssr in c / asm
 go ?  
 -->
 
-# programming-for-psychopaths                    
+# programming-for-psychopaths                     
 
 - [1-Hello World in Matlab](#hello_world_in_matlab)
 - [2-Oop in No Oop Languages](#oop_in_no_oop_languages)   
